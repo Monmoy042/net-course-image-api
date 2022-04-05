@@ -1,0 +1,13 @@
+[
+  {
+    "offline": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/offline.png",
+    "online": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/online.png",
+    "vendor": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/vendor.png",
+    "yt": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/yt.png",
+    "corporate": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/corporate.png",
+    "courses": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/courses.png",
+    "calc": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/clac.png",
+    "users": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/users.png",
+    "company": "https://raw.githubusercontent.com/Monmoy042/net-course-images/main/company.png"
+  }
+]
